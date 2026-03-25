@@ -57,9 +57,9 @@ cities_data = [
 brands = ["Orlen", "Shell", "BP", "Circle K", "Moya", "Amic", "MOL"]
 
 base_prices = {
-    "pb95": 6.35,
-    "diesel": 6.50,
-    "lpg": 3.05
+    "pb95": 7.20,
+    "diesel": 8.15,
+    "lpg": 3.55
 }
 
 def generate_stations():
@@ -88,7 +88,7 @@ def generate_stations():
             lng = round(c_data["center"][1] + lng_offset, 6)
             
             # Generate random prices around base
-            price_variance = random.uniform(-0.15, 0.20)
+            price_variance = random.uniform(-0.5, 0.45)
             prices = {
                 "pb95": round(base_prices["pb95"] + price_variance, 2),
                 "diesel": round(base_prices["diesel"] + price_variance, 2),
