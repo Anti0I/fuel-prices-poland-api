@@ -1,0 +1,1516 @@
+{
+  "updated_at": "2026-03-25T10:00:00Z",
+  "currency": "PLN",
+  "unit": "per_liter",
+  "cities": [
+    {
+      "city": "Warszawa",
+      "voivodeship": "mazowieckie",
+      "stations": [
+        {
+          "name": "Moya Południe",
+          "brand": "Moya",
+          "lat": 52.291978,
+          "lng": 21.084717,
+          "prices": {
+            "pb95": 6.35,
+            "diesel": 6.5,
+            "lpg": 2.95
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Wschód",
+          "brand": "Amic",
+          "lat": 52.154702,
+          "lng": 21.006683,
+          "prices": {
+            "pb95": 6.39,
+            "diesel": 6.54
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell ul. 79",
+          "brand": "Shell",
+          "lat": 52.221946,
+          "lng": 21.088692,
+          "prices": {
+            "pb95": 6.28,
+            "diesel": 6.43,
+            "lpg": 3.08
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K ul. 43",
+          "brand": "Circle K",
+          "lat": 52.181874,
+          "lng": 20.967062,
+          "prices": {
+            "pb95": 6.35,
+            "diesel": 6.5,
+            "lpg": 3.14
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Południe",
+          "brand": "Orlen",
+          "lat": 52.192071,
+          "lng": 20.983741,
+          "prices": {
+            "pb95": 6.35,
+            "diesel": 6.5,
+            "lpg": 2.97
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 52.31495,
+          "lng": 21.007389,
+          "prices": {
+            "pb95": 6.3,
+            "diesel": 6.45,
+            "lpg": 3.03
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Zachód",
+          "brand": "Circle K",
+          "lat": 52.226552,
+          "lng": 21.038214,
+          "prices": {
+            "pb95": 6.48,
+            "diesel": 6.63,
+            "lpg": 3.05
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Zachód",
+          "brand": "Amic",
+          "lat": 52.328872,
+          "lng": 21.093284,
+          "prices": {
+            "pb95": 6.53,
+            "diesel": 6.68,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell ul. 55",
+          "brand": "Shell",
+          "lat": 52.219113,
+          "lng": 20.990091,
+          "prices": {
+            "pb95": 6.42,
+            "diesel": 6.57
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Południe",
+          "brand": "BP",
+          "lat": 52.294604,
+          "lng": 20.934814,
+          "prices": {
+            "pb95": 6.53,
+            "diesel": 6.68,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Express",
+          "brand": "Circle K",
+          "lat": 52.176586,
+          "lng": 21.085418,
+          "prices": {
+            "pb95": 6.38,
+            "diesel": 6.53,
+            "lpg": 3.07
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya ul. 149",
+          "brand": "Moya",
+          "lat": 52.196642,
+          "lng": 21.014779,
+          "prices": {
+            "pb95": 6.3,
+            "diesel": 6.45,
+            "lpg": 3.08
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya ul. 120",
+          "brand": "Moya",
+          "lat": 52.138556,
+          "lng": 20.943569,
+          "prices": {
+            "pb95": 6.36,
+            "diesel": 6.51,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Zachód",
+          "brand": "Orlen",
+          "lat": 52.323063,
+          "lng": 21.069293,
+          "prices": {
+            "pb95": 6.35,
+            "diesel": 6.5,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 52.156811,
+          "lng": 21.035561,
+          "prices": {
+            "pb95": 6.44,
+            "diesel": 6.59,
+            "lpg": 2.96
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 52.142708,
+          "lng": 20.916332,
+          "prices": {
+            "pb95": 6.33,
+            "diesel": 6.48,
+            "lpg": 3.09
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Centrum",
+          "brand": "Moya",
+          "lat": 52.190866,
+          "lng": 20.999424,
+          "prices": {
+            "pb95": 6.51,
+            "diesel": 6.66
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Zachód",
+          "brand": "Moya",
+          "lat": 52.257074,
+          "lng": 21.035713,
+          "prices": {
+            "pb95": 6.47,
+            "diesel": 6.62,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Południe",
+          "brand": "Orlen",
+          "lat": 52.159228,
+          "lng": 20.992877,
+          "prices": {
+            "pb95": 6.54,
+            "diesel": 6.69,
+            "lpg": 3.08
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Centrum",
+          "brand": "Orlen",
+          "lat": 52.326101,
+          "lng": 20.983807,
+          "prices": {
+            "pb95": 6.39,
+            "diesel": 6.54,
+            "lpg": 3.07
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 52.194849,
+          "lng": 20.970861,
+          "prices": {
+            "pb95": 6.3,
+            "diesel": 6.45,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic ul. 72",
+          "brand": "Amic",
+          "lat": 52.238715,
+          "lng": 21.077573,
+          "prices": {
+            "pb95": 6.25,
+            "diesel": 6.4,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Północ",
+          "brand": "Amic",
+          "lat": 52.288066,
+          "lng": 20.933008,
+          "prices": {
+            "pb95": 6.39,
+            "diesel": 6.54,
+            "lpg": 3.11
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Południe",
+          "brand": "Circle K",
+          "lat": 52.296767,
+          "lng": 21.044891,
+          "prices": {
+            "pb95": 6.28,
+            "diesel": 6.43,
+            "lpg": 3.09
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Południe",
+          "brand": "Orlen",
+          "lat": 52.287072,
+          "lng": 21.04042,
+          "prices": {
+            "pb95": 6.47,
+            "diesel": 6.62
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "city": "Kraków",
+      "voivodeship": "małopolskie",
+      "stations": [
+        {
+          "name": "Amic ul. 112",
+          "brand": "Amic",
+          "lat": 50.068381,
+          "lng": 19.886593,
+          "prices": {
+            "pb95": 6.43,
+            "diesel": 6.58
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Wschód",
+          "brand": "Moya",
+          "lat": 50.139215,
+          "lng": 19.96322,
+          "prices": {
+            "pb95": 6.24,
+            "diesel": 6.39
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Express",
+          "brand": "Circle K",
+          "lat": 50.117874,
+          "lng": 19.894313,
+          "prices": {
+            "pb95": 6.31,
+            "diesel": 6.46,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Wschód",
+          "brand": "Shell",
+          "lat": 50.132081,
+          "lng": 19.871699,
+          "prices": {
+            "pb95": 6.29,
+            "diesel": 6.44,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Centrum",
+          "brand": "Amic",
+          "lat": 50.028973,
+          "lng": 19.867965,
+          "prices": {
+            "pb95": 6.53,
+            "diesel": 6.68,
+            "lpg": 3.11
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP ul. 32",
+          "brand": "BP",
+          "lat": 49.985663,
+          "lng": 19.875521,
+          "prices": {
+            "pb95": 6.33,
+            "diesel": 6.48,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Zachód",
+          "brand": "Shell",
+          "lat": 50.06204,
+          "lng": 19.920953,
+          "prices": {
+            "pb95": 6.46,
+            "diesel": 6.61,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Zachód",
+          "brand": "Orlen",
+          "lat": 50.087105,
+          "lng": 19.97993,
+          "prices": {
+            "pb95": 6.53,
+            "diesel": 6.68,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Południe",
+          "brand": "BP",
+          "lat": 50.106391,
+          "lng": 20.000409,
+          "prices": {
+            "pb95": 6.53,
+            "diesel": 6.68,
+            "lpg": 2.98
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Wschód",
+          "brand": "Orlen",
+          "lat": 50.012009,
+          "lng": 19.967823,
+          "prices": {
+            "pb95": 6.49,
+            "diesel": 6.64,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Centrum",
+          "brand": "Moya",
+          "lat": 50.055655,
+          "lng": 19.982932,
+          "prices": {
+            "pb95": 6.34,
+            "diesel": 6.49,
+            "lpg": 3.1
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Zachód",
+          "brand": "Amic",
+          "lat": 50.099621,
+          "lng": 19.911893,
+          "prices": {
+            "pb95": 6.32,
+            "diesel": 6.47,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K ul. 121",
+          "brand": "Circle K",
+          "lat": 50.042882,
+          "lng": 19.968304,
+          "prices": {
+            "pb95": 6.45,
+            "diesel": 6.6,
+            "lpg": 2.97
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Wschód",
+          "brand": "Circle K",
+          "lat": 50.104839,
+          "lng": 19.930011,
+          "prices": {
+            "pb95": 6.4,
+            "diesel": 6.55,
+            "lpg": 3.03
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Zachód",
+          "brand": "Orlen",
+          "lat": 50.083695,
+          "lng": 19.914483,
+          "prices": {
+            "pb95": 6.44,
+            "diesel": 6.59,
+            "lpg": 2.95
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Południe",
+          "brand": "Shell",
+          "lat": 50.138618,
+          "lng": 19.870582,
+          "prices": {
+            "pb95": 6.34,
+            "diesel": 6.49,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP ul. 31",
+          "brand": "BP",
+          "lat": 49.987514,
+          "lng": 19.960939,
+          "prices": {
+            "pb95": 6.44,
+            "diesel": 6.59,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Wschód",
+          "brand": "Amic",
+          "lat": 50.117636,
+          "lng": 19.88094,
+          "prices": {
+            "pb95": 6.4,
+            "diesel": 6.55,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Południe",
+          "brand": "Moya",
+          "lat": 50.051654,
+          "lng": 19.969455,
+          "prices": {
+            "pb95": 6.31,
+            "diesel": 6.46,
+            "lpg": 3.1
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Północ",
+          "brand": "BP",
+          "lat": 50.031113,
+          "lng": 19.891842,
+          "prices": {
+            "pb95": 6.42,
+            "diesel": 6.57,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "city": "Gdańsk",
+      "voivodeship": "pomorskie",
+      "stations": [
+        {
+          "name": "Circle K Południe",
+          "brand": "Circle K",
+          "lat": 54.352623,
+          "lng": 18.610713,
+          "prices": {
+            "pb95": 6.26,
+            "diesel": 6.41,
+            "lpg": 3.11
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Północ",
+          "brand": "Amic",
+          "lat": 54.419114,
+          "lng": 18.63728,
+          "prices": {
+            "pb95": 6.46,
+            "diesel": 6.61,
+            "lpg": 2.96
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya ul. 150",
+          "brand": "Moya",
+          "lat": 54.375429,
+          "lng": 18.615292,
+          "prices": {
+            "pb95": 6.35,
+            "diesel": 6.5,
+            "lpg": 3.03
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Centrum",
+          "brand": "Amic",
+          "lat": 54.315829,
+          "lng": 18.686593,
+          "prices": {
+            "pb95": 6.28,
+            "diesel": 6.43,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Północ",
+          "brand": "Orlen",
+          "lat": 54.305491,
+          "lng": 18.687669,
+          "prices": {
+            "pb95": 6.38,
+            "diesel": 6.53,
+            "lpg": 3.09
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Centrum",
+          "brand": "Orlen",
+          "lat": 54.395197,
+          "lng": 18.627684,
+          "prices": {
+            "pb95": 6.29,
+            "diesel": 6.44,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Południe",
+          "brand": "BP",
+          "lat": 54.326308,
+          "lng": 18.679738,
+          "prices": {
+            "pb95": 6.37,
+            "diesel": 6.52,
+            "lpg": 2.98
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Północ",
+          "brand": "Orlen",
+          "lat": 54.369294,
+          "lng": 18.699545,
+          "prices": {
+            "pb95": 6.31,
+            "diesel": 6.46,
+            "lpg": 3.06
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 54.289704,
+          "lng": 18.623651,
+          "prices": {
+            "pb95": 6.42,
+            "diesel": 6.57,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Wschód",
+          "brand": "Moya",
+          "lat": 54.345718,
+          "lng": 18.578957,
+          "prices": {
+            "pb95": 6.38,
+            "diesel": 6.53,
+            "lpg": 3.06
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP ul. 119",
+          "brand": "BP",
+          "lat": 54.400518,
+          "lng": 18.710856,
+          "prices": {
+            "pb95": 6.27,
+            "diesel": 6.42,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 54.409249,
+          "lng": 18.590197,
+          "prices": {
+            "pb95": 6.52,
+            "diesel": 6.67,
+            "lpg": 2.97
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 54.314323,
+          "lng": 18.634743,
+          "prices": {
+            "pb95": 6.32,
+            "diesel": 6.47,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Wschód",
+          "brand": "Circle K",
+          "lat": 54.38245,
+          "lng": 18.670691,
+          "prices": {
+            "pb95": 6.48,
+            "diesel": 6.63,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Zachód",
+          "brand": "BP",
+          "lat": 54.2871,
+          "lng": 18.657802,
+          "prices": {
+            "pb95": 6.54,
+            "diesel": 6.69,
+            "lpg": 3.03
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "city": "Wrocław",
+      "voivodeship": "dolnośląskie",
+      "stations": [
+        {
+          "name": "Amic ul. 55",
+          "brand": "Amic",
+          "lat": 51.164735,
+          "lng": 16.986644,
+          "prices": {
+            "pb95": 6.33,
+            "diesel": 6.48,
+            "lpg": 3.11
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Wschód",
+          "brand": "Shell",
+          "lat": 51.051666,
+          "lng": 17.034447,
+          "prices": {
+            "pb95": 6.52,
+            "diesel": 6.67,
+            "lpg": 2.97
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Express",
+          "brand": "Circle K",
+          "lat": 51.080989,
+          "lng": 17.054538,
+          "prices": {
+            "pb95": 6.49,
+            "diesel": 6.64,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen ul. 56",
+          "brand": "Orlen",
+          "lat": 51.175145,
+          "lng": 17.02672,
+          "prices": {
+            "pb95": 6.5,
+            "diesel": 6.65,
+            "lpg": 2.96
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic ul. 64",
+          "brand": "Amic",
+          "lat": 51.170689,
+          "lng": 17.02489,
+          "prices": {
+            "pb95": 6.36,
+            "diesel": 6.51,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Zachód",
+          "brand": "Shell",
+          "lat": 51.160098,
+          "lng": 16.993901,
+          "prices": {
+            "pb95": 6.42,
+            "diesel": 6.57,
+            "lpg": 3.09
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Zachód",
+          "brand": "Circle K",
+          "lat": 51.157842,
+          "lng": 17.093241,
+          "prices": {
+            "pb95": 6.33,
+            "diesel": 6.48,
+            "lpg": 2.95
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Express",
+          "brand": "Moya",
+          "lat": 51.114199,
+          "lng": 17.068071,
+          "prices": {
+            "pb95": 6.29,
+            "diesel": 6.44,
+            "lpg": 3.06
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Wschód",
+          "brand": "Moya",
+          "lat": 51.135049,
+          "lng": 17.10423,
+          "prices": {
+            "pb95": 6.54,
+            "diesel": 6.69,
+            "lpg": 3.03
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Północ",
+          "brand": "Shell",
+          "lat": 51.087689,
+          "lng": 17.036308,
+          "prices": {
+            "pb95": 6.31,
+            "diesel": 6.46,
+            "lpg": 2.96
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 51.151102,
+          "lng": 17.081701,
+          "prices": {
+            "pb95": 6.35,
+            "diesel": 6.5,
+            "lpg": 3.09
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Zachód",
+          "brand": "Circle K",
+          "lat": 51.030277,
+          "lng": 17.049522,
+          "prices": {
+            "pb95": 6.28,
+            "diesel": 6.43,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Południe",
+          "brand": "Shell",
+          "lat": 51.049752,
+          "lng": 17.013699,
+          "prices": {
+            "pb95": 6.28,
+            "diesel": 6.43,
+            "lpg": 3.14
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Północ",
+          "brand": "Orlen",
+          "lat": 51.122727,
+          "lng": 17.044706,
+          "prices": {
+            "pb95": 6.5,
+            "diesel": 6.65,
+            "lpg": 2.96
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Centrum",
+          "brand": "Shell",
+          "lat": 51.131065,
+          "lng": 17.060096,
+          "prices": {
+            "pb95": 6.46,
+            "diesel": 6.61,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Zachód",
+          "brand": "Shell",
+          "lat": 51.148718,
+          "lng": 17.08705,
+          "prices": {
+            "pb95": 6.49,
+            "diesel": 6.64,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Wschód",
+          "brand": "BP",
+          "lat": 51.175825,
+          "lng": 17.034362,
+          "prices": {
+            "pb95": 6.22,
+            "diesel": 6.37,
+            "lpg": 3.05
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Zachód",
+          "brand": "Moya",
+          "lat": 51.148416,
+          "lng": 16.971893,
+          "prices": {
+            "pb95": 6.44,
+            "diesel": 6.59,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "city": "Poznań",
+      "voivodeship": "wielkopolskie",
+      "stations": [
+        {
+          "name": "Circle K Express",
+          "brand": "Circle K",
+          "lat": 52.353111,
+          "lng": 16.965373,
+          "prices": {
+            "pb95": 6.47,
+            "diesel": 6.62,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic ul. 100",
+          "brand": "Amic",
+          "lat": 52.346885,
+          "lng": 16.993796,
+          "prices": {
+            "pb95": 6.48,
+            "diesel": 6.63,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Express",
+          "brand": "Moya",
+          "lat": 52.431583,
+          "lng": 16.958296,
+          "prices": {
+            "pb95": 6.55,
+            "diesel": 6.7,
+            "lpg": 3.1
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Wschód",
+          "brand": "Orlen",
+          "lat": 52.385963,
+          "lng": 16.860352,
+          "prices": {
+            "pb95": 6.4,
+            "diesel": 6.55,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Wschód",
+          "brand": "Shell",
+          "lat": 52.374665,
+          "lng": 16.940989,
+          "prices": {
+            "pb95": 6.47,
+            "diesel": 6.62,
+            "lpg": 2.98
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Południe",
+          "brand": "Moya",
+          "lat": 52.415648,
+          "lng": 16.986981,
+          "prices": {
+            "pb95": 6.32,
+            "diesel": 6.47,
+            "lpg": 3.14
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Południe",
+          "brand": "Circle K",
+          "lat": 52.43958,
+          "lng": 16.915007,
+          "prices": {
+            "pb95": 6.46,
+            "diesel": 6.61,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 52.435289,
+          "lng": 16.910851,
+          "prices": {
+            "pb95": 6.32,
+            "diesel": 6.47,
+            "lpg": 3.05
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Wschód",
+          "brand": "BP",
+          "lat": 52.393956,
+          "lng": 16.903163,
+          "prices": {
+            "pb95": 6.34,
+            "diesel": 6.49,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Południe",
+          "brand": "BP",
+          "lat": 52.36412,
+          "lng": 16.984957,
+          "prices": {
+            "pb95": 6.32,
+            "diesel": 6.47,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 52.35343,
+          "lng": 16.884661,
+          "prices": {
+            "pb95": 6.48,
+            "diesel": 6.63,
+            "lpg": 3.03
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Centrum",
+          "brand": "Moya",
+          "lat": 52.449196,
+          "lng": 16.886968,
+          "prices": {
+            "pb95": 6.22,
+            "diesel": 6.37,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Południe",
+          "brand": "Moya",
+          "lat": 52.383398,
+          "lng": 16.880004,
+          "prices": {
+            "pb95": 6.36,
+            "diesel": 6.51,
+            "lpg": 2.98
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 52.46677,
+          "lng": 16.920164,
+          "prices": {
+            "pb95": 6.36,
+            "diesel": 6.51,
+            "lpg": 2.98
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Zachód",
+          "brand": "BP",
+          "lat": 52.374458,
+          "lng": 16.986119,
+          "prices": {
+            "pb95": 6.42,
+            "diesel": 6.57
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "city": "Łódź",
+      "voivodeship": "łódzkie",
+      "stations": [
+        {
+          "name": "Moya Północ",
+          "brand": "Moya",
+          "lat": 51.714094,
+          "lng": 19.500079,
+          "prices": {
+            "pb95": 6.29,
+            "diesel": 6.44,
+            "lpg": 3.1
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Południe",
+          "brand": "Moya",
+          "lat": 51.733198,
+          "lng": 19.527113,
+          "prices": {
+            "pb95": 6.26,
+            "diesel": 6.41,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Zachód",
+          "brand": "Amic",
+          "lat": 51.770548,
+          "lng": 19.483697,
+          "prices": {
+            "pb95": 6.53,
+            "diesel": 6.68,
+            "lpg": 3.02
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Północ",
+          "brand": "BP",
+          "lat": 51.78065,
+          "lng": 19.455023,
+          "prices": {
+            "pb95": 6.21,
+            "diesel": 6.36,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic ul. 41",
+          "brand": "Amic",
+          "lat": 51.757045,
+          "lng": 19.378372,
+          "prices": {
+            "pb95": 6.41,
+            "diesel": 6.56,
+            "lpg": 3.04
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K ul. 80",
+          "brand": "Circle K",
+          "lat": 51.703806,
+          "lng": 19.387282,
+          "prices": {
+            "pb95": 6.22,
+            "diesel": 6.37,
+            "lpg": 3.15
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Południe",
+          "brand": "Amic",
+          "lat": 51.702474,
+          "lng": 19.420362,
+          "prices": {
+            "pb95": 6.24,
+            "diesel": 6.39,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 51.693643,
+          "lng": 19.532194,
+          "prices": {
+            "pb95": 6.54,
+            "diesel": 6.69,
+            "lpg": 3.11
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Wschód",
+          "brand": "Shell",
+          "lat": 51.801816,
+          "lng": 19.409098,
+          "prices": {
+            "pb95": 6.42,
+            "diesel": 6.57,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K ul. 14",
+          "brand": "Circle K",
+          "lat": 51.739538,
+          "lng": 19.457984,
+          "prices": {
+            "pb95": 6.23,
+            "diesel": 6.38,
+            "lpg": 3.14
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Północ",
+          "brand": "Circle K",
+          "lat": 51.714258,
+          "lng": 19.475985,
+          "prices": {
+            "pb95": 6.39,
+            "diesel": 6.54,
+            "lpg": 2.97
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Wschód",
+          "brand": "BP",
+          "lat": 51.81198,
+          "lng": 19.379889,
+          "prices": {
+            "pb95": 6.44,
+            "diesel": 6.59,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Centrum",
+          "brand": "Moya",
+          "lat": 51.754876,
+          "lng": 19.506506,
+          "prices": {
+            "pb95": 6.24,
+            "diesel": 6.39,
+            "lpg": 3.09
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Express",
+          "brand": "Orlen",
+          "lat": 51.819012,
+          "lng": 19.481378,
+          "prices": {
+            "pb95": 6.36,
+            "diesel": 6.51,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Circle K Wschód",
+          "brand": "Circle K",
+          "lat": 51.772223,
+          "lng": 19.484105,
+          "prices": {
+            "pb95": 6.24,
+            "diesel": 6.39
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Północ",
+          "brand": "Moya",
+          "lat": 51.804949,
+          "lng": 19.44073,
+          "prices": {
+            "pb95": 6.25,
+            "diesel": 6.4,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Moya Południe",
+          "brand": "Moya",
+          "lat": 51.760831,
+          "lng": 19.464828,
+          "prices": {
+            "pb95": 6.39,
+            "diesel": 6.54,
+            "lpg": 3.0
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Południe",
+          "brand": "BP",
+          "lat": 51.710649,
+          "lng": 19.506445,
+          "prices": {
+            "pb95": 6.26,
+            "diesel": 6.41,
+            "lpg": 3.12
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "city": "Szczecin",
+      "voivodeship": "zachodniopomorskie",
+      "stations": [
+        {
+          "name": "Moya Zachód",
+          "brand": "Moya",
+          "lat": 53.434168,
+          "lng": 14.499742,
+          "prices": {
+            "pb95": 6.47,
+            "diesel": 6.62,
+            "lpg": 3.07
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Południe",
+          "brand": "Orlen",
+          "lat": 53.410968,
+          "lng": 14.543853,
+          "prices": {
+            "pb95": 6.28,
+            "diesel": 6.43,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Północ",
+          "brand": "Shell",
+          "lat": 53.453838,
+          "lng": 14.521392,
+          "prices": {
+            "pb95": 6.54,
+            "diesel": 6.69
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Zachód",
+          "brand": "Orlen",
+          "lat": 53.490924,
+          "lng": 14.540491,
+          "prices": {
+            "pb95": 6.41,
+            "diesel": 6.56,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Zachód",
+          "brand": "Amic",
+          "lat": 53.471391,
+          "lng": 14.56003,
+          "prices": {
+            "pb95": 6.21,
+            "diesel": 6.36,
+            "lpg": 3.1
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Orlen Zachód",
+          "brand": "Orlen",
+          "lat": 53.43814,
+          "lng": 14.516821,
+          "prices": {
+            "pb95": 6.31,
+            "diesel": 6.46,
+            "lpg": 3.01
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Shell Wschód",
+          "brand": "Shell",
+          "lat": 53.476227,
+          "lng": 14.495124,
+          "prices": {
+            "pb95": 6.52,
+            "diesel": 6.67,
+            "lpg": 3.05
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Wschód",
+          "brand": "Amic",
+          "lat": 53.45489,
+          "lng": 14.605144,
+          "prices": {
+            "pb95": 6.45,
+            "diesel": 6.6,
+            "lpg": 3.1
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Centrum",
+          "brand": "BP",
+          "lat": 53.48171,
+          "lng": 14.588947,
+          "prices": {
+            "pb95": 6.43,
+            "diesel": 6.58,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "BP Wschód",
+          "brand": "BP",
+          "lat": 53.470781,
+          "lng": 14.483088,
+          "prices": {
+            "pb95": 6.55,
+            "diesel": 6.7,
+            "lpg": 3.13
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Centrum",
+          "brand": "Amic",
+          "lat": 53.494223,
+          "lng": 14.601875,
+          "prices": {
+            "pb95": 6.47,
+            "diesel": 6.62,
+            "lpg": 3.05
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        },
+        {
+          "name": "Amic Express",
+          "brand": "Amic",
+          "lat": 53.384893,
+          "lng": 14.550875,
+          "prices": {
+            "pb95": 6.48,
+            "diesel": 6.63,
+            "lpg": 2.99
+          },
+          "updated_at": "2026-03-25T10:00:00Z"
+        }
+      ]
+    }
+  ]
+}
